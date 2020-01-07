@@ -1,0 +1,9 @@
+Hello 
+
+Using Tensorflow Mnsit dataset
+We are create a model which will work as 
+digit recognition system
+we will train that mode till the accuracy 
+of 98%.
+      Then we will test the hand written digit
+test from dataset of mnasit .
